@@ -1,0 +1,12 @@
+{
+  "export_job_id": "679ec2cd-c688-4baf-b1dd-28dcd0540ff1",
+  "id_short": 993930,
+  "published_at": "2026-04-16T07:36:40Z",
+  "repo_name": "tech-ready-restaurants-in-the-riverside-san-bernardino-ontario-metro-area-ca-us-sample-993930",
+  "sample_asset_name": "beamstation_993930_restaurants-us-riversidesanbernardinoontarioca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/993930/beamstation_993930_restaurants-us-riversidesanbernardinoontarioca_SAMPLE_DIST.csv",
+  "sample_records": 2,
+  "sample_sha256": "9c267ae66fbc68f726f93cd469f30b85a7c9a57ca5d1869573f3ba026b809a07",
+  "sample_size_bytes": 22887,
+  "total_records": 29
+}
